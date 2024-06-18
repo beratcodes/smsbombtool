@@ -11,6 +11,7 @@ Bu proje, Python dilinde geliştirilmiş bir SMS bomber aracıdır. Amacı, kull
 Belirli bir telefon numarasına çok sayıda SMS gönderme yeteneği
 Kullanıcı dostu arayüz
 Python dilinde ileri düzey programlama teknikleri ve kütüphanelerin kullanımı
+
 Kullanım Amacı:
 
 Bu aracın tek amacı, kullanıcıları bilgilendirmek ve eğitim sağlamaktır. Kötüye kullanım kesinlikle tavsiye edilmez ve bu yazılımın kötüye kullanımı, yasalarla cezalandırılabilir. Bu aracı kullanırken dikkatli olun ve başkalarına zarar vermemek için sorumlu bir şekilde hareket edin.
