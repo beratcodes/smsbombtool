@@ -19,3 +19,10 @@ Bu aracın tek amacı, kullanıcıları bilgilendirmek ve eğitim sağlamaktır.
 # Sorumluluk Reddi:
 
 # Bu yazılımın kullanımı veya dağıtımı sonucunda ortaya çıkabilecek herhangi bir zarar veya hukuki sorun karşısında, yazılım geliştiricisi sorumluluk kabul etmez. Bu yazılımı kullanarak, tüm sorumluluğu ve riskleri kabul etmiş olursunuz.
+
+## Kurulum
+
+1. Bu repo'yu klonlayın:
+   ```bash
+   https://github.com/beratcodes/smsbombtool.git
+   
